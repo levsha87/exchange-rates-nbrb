@@ -1,0 +1,25 @@
+{
+  "name": "exchange-rates-nbrb",
+  "version": "1.0.0",
+  "description": "Еelegram bot that, using the public API of the National Bank of the Republic of Belarus, shows exchange rates at the user’s request",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levsha87/exchange-rates-nbrb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levsha87/exchange-rates-nbrb/issues"
+  },
+  "homepage": "https://github.com/levsha87/exchange-rates-nbrb#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "telegraf": "^4.16.3"
+  }
+}
