@@ -1,8 +1,8 @@
 {
   "name": "exchange-rates-nbrb",
   "version": "1.0.0",
-  "description": "Еelegram bot that, using the public API of the National Bank of the Republic of Belarus, shows exchange rates at the user’s request",
-  "main": "index.js",
+  "description": "Telegram bot that, using the public API of the National Bank of the Republic of Belarus, shows exchange rates at the user’s request",
+  "main": "src/bot/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
